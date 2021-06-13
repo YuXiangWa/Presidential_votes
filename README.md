@@ -3,6 +3,7 @@
 # 透過Pandas處理多張試算表並合併
 
 結果前5筆
+
 ![image](https://github.com/YuXiangWa/Presidential_votes/blob/main/head.PNG)
 
 結果後5筆
