@@ -1,6 +1,6 @@
 # Presidential_votes
 # Pandas資料處理
-# 透過Pandas處理多張試算表並合併
+# 透過Pandas處理各縣市各開票所多張試算表並合併
 
 結果前5筆
 
