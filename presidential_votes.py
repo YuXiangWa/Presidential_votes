@@ -60,6 +60,6 @@ def get_presidential_votes():
     return presidential_votes
 
 presidential_votes = get_presidential_votes()
-presidential_votes.head()
-presidential_votes.tail()
+print(presidential_votes.head())
+print(presidential_votes.tail())
 presidential_votes.to_csv('presidential_votes.csv', index=False,encoding='utf-8-sig')
